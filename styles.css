@@ -1,0 +1,172 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+ * {
+    font-family: raleway;
+    text-align: center;
+ }
+
+ div {
+    margin: auto;
+    
+     
+
+ }
+
+ .banner {
+        
+    width: 1440px;
+    height: 505px;
+    border-bottom: 1px solid #33A8DB;        
+    background-image: url('./banner.png'), linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)); 
+    
+}
+
+ p {
+    color:#FFFFFF;
+    font-family: Raleway;
+    font-size: 20px;
+    line-height: 23.48px;
+    text-align: center;
+    margin: auto;
+    
+          
+
+}
+
+.banner-content {
+    width: 510px;
+    height: 393px;
+    top: 56px;
+    left: 465px;
+    gap: 16px;
+    opacity: 0px;
+    text-align: center;
+    margin-top: 5%;  
+    
+
+
+}
+
+
+button {
+    width: 326px;
+    height: 57px;    
+    border: 2px solid;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 18.78px;
+    letter-spacing: 0.21em;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: transparent;      
+    border-color:  #1472B7;
+    color: #1472B7;
+    margin-top: 5%;
+}
+
+
+h1 {
+    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 46.96px;
+    text-align: left;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    letter-spacing: 0.19em;
+    color: #33A8DB;
+    margin-top: 130px;
+    text-transform: uppercase;
+    text-align: center;
+    
+} 
+   
+
+
+body {
+    background-color: black;
+}
+
+ section course-content {
+    width: Hug (792px)px;
+    height: Hug (325px)px;     
+    text-align: center;
+        
+}
+
+.modules-list {
+    color: #FFFFFF;
+    text-align: center;
+    width: Fixed (535px)px;
+    height: Hug (51px)px;
+    padding: 16px 127px 16px 127px;
+    gap: 10px;    
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 1rem;
+   
+
+
+}
+
+.module {
+    border: 1px solid rgba(51, 168, 219, 1);
+    width: 535px;
+    height: 51px;    
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 15.78px;       
+    text-align: center;
+    border-radius: 57px;       
+    border: 1px solid rgba(51, 168, 219, 1);
+    color: #ffffff;
+    background-color: rgba(37, 37, 37, 1);   
+     
+     
+    
+   
+}
+
+.module span {
+    color: #1472B7;
+    background: rgba(37, 37, 37, 1);
+    text-align: center;
+    padding: 16px, 127px, 16px, 127px; 
+    
+    
+
+}
+
+section p {
+    text-align: center;
+    width: 792px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.78px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);   
+
+
+}
+
+ 
+
+
+
+
+
+
+
+
+
